@@ -102,3 +102,30 @@ h1{
 .result p .searchmatch{
   font-weight: 700;
 }
+
+.genRandom{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border-radius: 10px;
+  padding:5px 8px;
+  border: none;
+  background-color: #c571ab;
+  transition: 0.4s;
+  color:#FFF;
+  margin-bottom: 5px;
+}
+.genRandom:hover{
+  background-color: #ac7878;
+}
+.remRandom{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border-radius: 10px;
+  padding:5px 8px;
+  border: none;
+  background-color: #c9ec4b;
+  transition: 0.4s;
+  color:#FFF;
+  margin-bottom: 5px;
+}
+.remRandom:hover{
+  background-color: #94a972;
+}
